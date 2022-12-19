@@ -1,0 +1,11 @@
+.menu{
+    display: flex;
+}
+.item{
+    display: flex;
+    flex-flow: column;
+}
+.menu .item img{
+    width: 300px;
+    height: 300px;
+}
